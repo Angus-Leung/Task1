@@ -8,5 +8,7 @@
 
 import Foundation
 
-println("Hello, World!")
-
+for var i = 0; i<=100; ++i{
+    println(i);
+    }
+println("test 1")
