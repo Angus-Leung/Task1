@@ -17,6 +17,8 @@ println("test 1")
 var x: Int = 10
 var test: Int = 1
 
-var test2: int = 2
+var test2: Int = 2
 
 var test3: Int = 3
+
+var test4: Int = 4
