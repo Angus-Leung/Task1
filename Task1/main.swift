@@ -14,3 +14,4 @@ for var i = 0; i<=100; ++i{
 println("test 1")
 
 var x: Int = 10
+var test: Int = 1
