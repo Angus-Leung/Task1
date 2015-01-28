@@ -12,3 +12,5 @@ for var i = 0; i<=100; ++i{
     println(i);
     }
 println("test 1")
+
+var x: Int = 10
